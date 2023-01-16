@@ -1,2 +1,3 @@
 this is my test
 this is another piece of text
+this is a third piece of text
